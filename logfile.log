@@ -1,0 +1,204 @@
+2022-07-20 12:10:14,925 :INFO : test_e2e :click on shop item
+2022-07-20 12:10:14,950 :INFO : test_e2e :iphone X
+2022-07-20 12:10:14,961 :INFO : test_e2e :Samsung Note 8
+2022-07-20 12:10:14,972 :INFO : test_e2e :Nokia Edge
+2022-07-20 12:10:15,017 :INFO : test_e2e :Click on Nokia Edge Add footer
+2022-07-20 12:10:15,032 :INFO : test_e2e :Blackberry
+2022-07-20 12:10:20,239 :INFO : test_e2e :Select the India from the Dropdown
+2022-07-20 12:10:40,444 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-20 12:16:05,319 :INFO : test_formSubmission :enter firstName
+2022-07-20 12:16:05,390 :INFO : test_formSubmission :enter Email
+2022-07-20 12:16:05,449 :INFO : test_formSubmission :enter Password
+2022-07-20 12:16:05,499 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 12:16:05,535 :INFO : test_formSubmission :Male
+2022-07-20 12:16:05,576 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 12:16:05,635 :INFO : test_formSubmission :Enter DOB
+2022-07-20 12:16:08,690 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 12:16:08,714 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 12:16:14,017 :INFO : test_formSubmission :enter firstName
+2022-07-20 12:16:14,017 :INFO : test_formSubmission :enter firstName
+2022-07-20 12:16:14,084 :INFO : test_formSubmission :enter Email
+2022-07-20 12:16:14,084 :INFO : test_formSubmission :enter Email
+2022-07-20 12:16:14,146 :INFO : test_formSubmission :enter Password
+2022-07-20 12:16:14,146 :INFO : test_formSubmission :enter Password
+2022-07-20 12:16:14,189 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 12:16:14,189 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 12:16:14,230 :INFO : test_formSubmission :Male
+2022-07-20 12:16:14,230 :INFO : test_formSubmission :Male
+2022-07-20 12:16:14,271 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 12:16:14,271 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 12:16:14,323 :INFO : test_formSubmission :Enter DOB
+2022-07-20 12:16:14,323 :INFO : test_formSubmission :Enter DOB
+2022-07-20 12:16:17,378 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 12:16:17,378 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 12:16:17,399 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 12:16:17,399 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 12:16:28,248 :INFO : test_e2e :click on shop item
+2022-07-20 12:16:28,273 :INFO : test_e2e :iphone X
+2022-07-20 12:16:28,285 :INFO : test_e2e :Samsung Note 8
+2022-07-20 12:16:28,296 :INFO : test_e2e :Nokia Edge
+2022-07-20 12:16:28,339 :INFO : test_e2e :Click on Nokia Edge Add footer
+2022-07-20 12:16:28,353 :INFO : test_e2e :Blackberry
+2022-07-20 12:16:33,605 :INFO : test_e2e :Select the India from the Dropdown
+2022-07-20 12:16:53,777 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-20 12:23:28,112 :INFO : test_formSubmission :enter firstName
+2022-07-20 12:23:28,185 :INFO : test_formSubmission :enter Email
+2022-07-20 12:23:28,245 :INFO : test_formSubmission :enter Password
+2022-07-20 12:23:28,292 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 12:23:28,325 :INFO : test_formSubmission :Male
+2022-07-20 12:23:28,364 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 12:23:28,417 :INFO : test_formSubmission :Enter DOB
+2022-07-20 12:23:31,478 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 12:23:31,500 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 12:23:31,561 :INFO : test_formSubmission :enter firstName
+2022-07-20 12:23:31,561 :INFO : test_formSubmission :enter firstName
+2022-07-20 12:23:31,618 :INFO : test_formSubmission :enter Email
+2022-07-20 12:23:31,618 :INFO : test_formSubmission :enter Email
+2022-07-20 12:23:31,665 :INFO : test_formSubmission :enter Password
+2022-07-20 12:23:31,665 :INFO : test_formSubmission :enter Password
+2022-07-20 12:23:31,701 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 12:23:31,701 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 12:23:31,732 :INFO : test_formSubmission :Male
+2022-07-20 12:23:31,732 :INFO : test_formSubmission :Male
+2022-07-20 12:23:31,764 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 12:23:31,764 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 12:23:31,811 :INFO : test_formSubmission :Enter DOB
+2022-07-20 12:23:31,811 :INFO : test_formSubmission :Enter DOB
+2022-07-20 12:23:34,856 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 12:23:34,856 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 12:23:34,869 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 12:23:34,869 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 12:23:40,427 :INFO : test_e2e :click on shop item
+2022-07-20 12:23:40,453 :INFO : test_e2e :iphone X
+2022-07-20 12:23:40,464 :INFO : test_e2e :Samsung Note 8
+2022-07-20 12:23:40,475 :INFO : test_e2e :Nokia Edge
+2022-07-20 12:23:40,515 :INFO : test_e2e :Click on Nokia Edge Add footer
+2022-07-20 12:23:40,529 :INFO : test_e2e :Blackberry
+2022-07-20 12:23:45,759 :INFO : test_e2e :Select the India from the Dropdown
+2022-07-20 12:24:05,948 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-20 12:30:02,433 :INFO : test_formSubmission :enter firstName
+2022-07-20 12:30:02,502 :INFO : test_formSubmission :enter Email
+2022-07-20 12:30:02,560 :INFO : test_formSubmission :enter Password
+2022-07-20 12:30:02,608 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 12:30:02,643 :INFO : test_formSubmission :Male
+2022-07-20 12:30:02,688 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 12:30:02,742 :INFO : test_formSubmission :Enter DOB
+2022-07-20 12:30:05,794 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 12:30:05,822 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 12:30:11,098 :INFO : test_formSubmission :enter firstName
+2022-07-20 12:30:11,098 :INFO : test_formSubmission :enter firstName
+2022-07-20 12:30:11,165 :INFO : test_formSubmission :enter Email
+2022-07-20 12:30:11,165 :INFO : test_formSubmission :enter Email
+2022-07-20 12:30:11,226 :INFO : test_formSubmission :enter Password
+2022-07-20 12:30:11,226 :INFO : test_formSubmission :enter Password
+2022-07-20 12:30:11,270 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 12:30:11,270 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 12:30:11,306 :INFO : test_formSubmission :Male
+2022-07-20 12:30:11,306 :INFO : test_formSubmission :Male
+2022-07-20 12:30:11,348 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 12:30:11,348 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 12:30:11,396 :INFO : test_formSubmission :Enter DOB
+2022-07-20 12:30:11,396 :INFO : test_formSubmission :Enter DOB
+2022-07-20 12:30:14,441 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 12:30:14,441 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 12:30:14,464 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 12:30:14,464 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 12:30:25,776 :INFO : test_e2e :click on shop item
+2022-07-20 12:30:25,799 :INFO : test_e2e :iphone X
+2022-07-20 12:30:25,812 :INFO : test_e2e :Samsung Note 8
+2022-07-20 12:30:25,824 :INFO : test_e2e :Nokia Edge
+2022-07-20 12:30:25,875 :INFO : test_e2e :Click on Nokia Edge Add footer
+2022-07-20 12:30:25,890 :INFO : test_e2e :Blackberry
+2022-07-20 12:30:31,128 :INFO : test_e2e :Select the India from the Dropdown
+2022-07-20 12:30:51,295 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-20 12:34:52,497 :INFO : test_formSubmission :enter firstName
+2022-07-20 12:34:52,525 :INFO : test_formSubmission :enter Email
+2022-07-20 12:34:52,545 :INFO : test_formSubmission :enter Password
+2022-07-20 12:34:52,768 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 12:34:52,784 :INFO : test_formSubmission :Male
+2022-07-20 12:34:53,000 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 12:34:53,008 :INFO : test_formSubmission :Enter DOB
+2022-07-20 12:34:56,282 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 12:34:56,303 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 12:35:01,900 :INFO : test_formSubmission :enter firstName
+2022-07-20 12:35:01,900 :INFO : test_formSubmission :enter firstName
+2022-07-20 12:35:01,926 :INFO : test_formSubmission :enter Email
+2022-07-20 12:35:01,926 :INFO : test_formSubmission :enter Email
+2022-07-20 12:35:01,944 :INFO : test_formSubmission :enter Password
+2022-07-20 12:35:01,944 :INFO : test_formSubmission :enter Password
+2022-07-20 12:35:02,166 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 12:35:02,166 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 12:35:02,180 :INFO : test_formSubmission :Male
+2022-07-20 12:35:02,180 :INFO : test_formSubmission :Male
+2022-07-20 12:35:02,400 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 12:35:02,400 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 12:35:02,409 :INFO : test_formSubmission :Enter DOB
+2022-07-20 12:35:02,409 :INFO : test_formSubmission :Enter DOB
+2022-07-20 12:35:05,659 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 12:35:05,659 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 12:35:05,669 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 12:35:05,669 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 12:35:23,524 :INFO : test_e2e :click on shop item
+2022-07-20 12:35:23,545 :INFO : test_e2e :iphone X
+2022-07-20 12:35:23,701 :INFO : test_e2e :Samsung Note 8
+2022-07-20 12:35:23,855 :INFO : test_e2e :Nokia Edge
+2022-07-20 12:35:24,223 :INFO : test_e2e :Click on Nokia Edge Add footer
+2022-07-20 12:35:24,316 :INFO : test_e2e :Blackberry
+2022-07-20 12:35:30,604 :INFO : test_e2e :Select the India from the Dropdown
+2022-07-20 12:35:51,327 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-20 13:23:00,354 :INFO : test_formSubmission :enter firstName
+2022-07-20 13:23:00,469 :INFO : test_formSubmission :enter Email
+2022-07-20 13:23:00,499 :INFO : test_formSubmission :enter Password
+2022-07-20 13:23:00,741 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 13:23:00,756 :INFO : test_formSubmission :Male
+2022-07-20 13:23:00,975 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 13:23:01,005 :INFO : test_formSubmission :Enter DOB
+2022-07-20 13:23:04,302 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 13:23:04,321 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 13:23:10,738 :INFO : test_formSubmission :enter firstName
+2022-07-20 13:23:10,738 :INFO : test_formSubmission :enter firstName
+2022-07-20 13:23:10,761 :INFO : test_formSubmission :enter Email
+2022-07-20 13:23:10,761 :INFO : test_formSubmission :enter Email
+2022-07-20 13:23:10,776 :INFO : test_formSubmission :enter Password
+2022-07-20 13:23:10,776 :INFO : test_formSubmission :enter Password
+2022-07-20 13:23:10,990 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 13:23:10,990 :INFO : test_formSubmission :click on CheckBox
+2022-07-20 13:23:11,007 :INFO : test_formSubmission :Male
+2022-07-20 13:23:11,007 :INFO : test_formSubmission :Male
+2022-07-20 13:23:11,228 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 13:23:11,228 :INFO : test_formSubmission :click on Radio Button
+2022-07-20 13:23:11,237 :INFO : test_formSubmission :Enter DOB
+2022-07-20 13:23:11,237 :INFO : test_formSubmission :Enter DOB
+2022-07-20 13:23:14,468 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 13:23:14,468 :INFO : test_formSubmission :click on Purchase Button
+2022-07-20 13:23:14,477 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 13:23:14,477 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-07-20 13:23:34,427 :INFO : test_e2e :click on shop item
+2022-07-20 13:23:34,717 :INFO : test_e2e :iphone X
+2022-07-20 13:23:34,839 :INFO : test_e2e :Samsung Note 8
+2022-07-20 13:23:34,917 :INFO : test_e2e :Nokia Edge
+2022-07-20 13:23:36,107 :INFO : test_e2e :Click on Nokia Edge Add footer
+2022-07-20 13:23:36,568 :INFO : test_e2e :Blackberry
+2022-07-20 13:23:43,109 :INFO : test_e2e :Select the India from the Dropdown
+2022-07-20 13:24:03,804 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
